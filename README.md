@@ -1,4 +1,4 @@
-# 🏦 DIO Bank - Sistema de Controle de Contas e Investimentos
+# 🏦 JavaBank - Sistema de Controle de Contas e Investimentos
 
 ## Descrição do Projeto
 
