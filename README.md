@@ -1,4 +1,4 @@
-# 🏦 JavaBank - Sistema de Controle de Contas e Investimentos
+# 🏦 JavaBank - Controle seus Investimentos
 
 ## Descrição do Projeto
 
